@@ -1,12 +1,119 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\Git_Project\\NewB\\The First Person View\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|D:\\Git_Project\\NewB\\The First Person View\\assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|d:\\git_project\\newb\\the first person view\\assets\\scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerctrl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|D:\\Git_Project\\NewB\\The First Person View\\assets\\scripts\\pickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\pickitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|D:\\Git_Project\\NewB\\The First Person View\\assets\\scripts\\itemcombinationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\itemcombinationlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|D:\\Git_Project\\NewB\\The First Person View\\assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4396240-A150-D914-64A4-B1242FDFAA4F}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|d:\\git_project\\newb\\the first person view\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
       "VerticalTabListWidth": 256,
-      "DocumentGroups": []
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerCtrl.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PlayerCtrl.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerCtrl.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PlayerCtrl.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerCtrl.cs",
+              "ViewState": "AQIAAHsAAAAAAAAAAAAAAIsAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:31:21.682Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Inventory.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\Inventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Inventory.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\Inventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Inventory.cs",
+              "ViewState": "AQIAAP0AAAAAAAAAAAAAAOUAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T14:36:51.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ItemCombinationList.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\ItemCombinationList.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ItemCombinationList.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\ItemCombinationList.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ItemCombinationList.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAAwAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:02:50.942Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObject.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObject.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T19:16:20.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PickItem.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PickItem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PickItem.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PickItem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PickItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T21:00:38.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\Git_Project\\NewB\\The First Person View\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AQIAAB8AAAAAAAAAAAAAAAYAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-25T13:59:41.882Z"
+            }
+          ]
+        }
+      ]
     }
   ]
 }
